@@ -35,8 +35,18 @@ Route Optimizer is a web application that helps users plan the most efficient tr
 
 ---
 
-## Getting Started
 
+![Screenshot 2025-06-04 123252](https://github.com/user-attachments/assets/1813dc1d-640c-4290-8fd1-348854847317)
+
+![Screenshot 2025-06-04 123408](https://github.com/user-attachments/assets/b7110303-a881-41bf-9e90-d5552bdc99f8)
+
+
+![Screenshot 2025-06-04 123528](https://github.com/user-attachments/assets/13fca9de-07ae-446d-a9fd-6a23d5ac34a5)
+
+![Screenshot 2025-06-04 123554](https://github.com/user-attachments/assets/2fc9f531-b902-42d9-98aa-8e70fac68a3a)
+
+
+## Getting Started
 ### Prerequisites
 
 - Node.js and npm installed
